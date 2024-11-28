@@ -10,6 +10,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/heima-leadnews-basic/heima-leadnews-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/heima-leadnews-service/heima-leadnews-wemedia-gateway/pom.xml" />
       </set>
     </option>
   </component>

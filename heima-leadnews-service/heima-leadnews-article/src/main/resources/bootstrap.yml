@@ -2,7 +2,7 @@ server:
   port: 51802
 spring:
   application:
-    name: leadnews-article
+    name:
   cloud:
     nacos:
       discovery:
